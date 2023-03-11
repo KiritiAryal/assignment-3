@@ -1,7 +1,7 @@
 module load gnu/5.4.0
 touch a3_results.txt
-echo Kiriti Aryal > a3_results.txt 
-echo R11722758 >> a3_results.txt
+echo Arogya Bhatta > a3_results.txt 
+quanah:/work3$ echo R11594739>>a3_results.txt
 cd code/decrypt
 ./decrypt /lustre/work/errees/courses/cs4352/assignment3/input/encrypted.txt
 ../transform/transform 11722758
